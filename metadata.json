@@ -1,0 +1,8 @@
+{
+  "name": "One to One Personal Coaching",
+  "description": "Comprehensive school tuition management system for Standards 1-12: admissions, batches, attendance, fee receipts, homework, exams, and parent-teacher communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
